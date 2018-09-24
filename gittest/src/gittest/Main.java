@@ -6,6 +6,7 @@ public class Main {
 		
 		System.out.println("Testing out git repositories!");
 		System.out.println("This line was added from my mac desktop!");
+		System.out.println("This line was added from my mac laptop!");
 
 	}
 
